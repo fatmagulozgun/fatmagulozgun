@@ -20,28 +20,28 @@
 
 ### Frontend Development
 <p align="start">
-   <a href="https://www.linkedin.com/in/fatmagulozgun/">
+   <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
   </a>
 </p>
 
 ### Backend Development
 <p align="start">
-  <a href="https://www.linkedin.com/in/fatmagulozgun/">
+  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
 ### Programming Languages
 <p align="start">
-  <a href="https://www.linkedin.com/in/fatmagulozgun/">
+  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
     <img src="https://skillicons.dev/icons?i=cs,js,java,python" />
   </a>
 </p>
 
 ### Other
 <p align="start">
-  <a href="https://www.linkedin.com/in/fatmagulozgun/">
+  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
     <img src="https://skillicons.dev/icons?i=git,mysql" />
   </a>
 </p>
