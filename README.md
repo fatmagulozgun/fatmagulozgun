@@ -1,8 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Fatmagül ÖZGÜN</h1>
 <h3 align="center">
-  Tutkulu bir Full Stack Geliştiricisiyim, hem ön yüz hem de arka yüz geliştirme konusunda deneyimliyim. 
-  Kullanıcı dostu arayüzler oluşturmak ve sağlam backend sistemleri geliştirmek benim için sadece bir iş değil aynı zamanda bir tutku.   
-  Sürekli öğrenmeye açım ve yeteneklerimi geliştirmek için yeni projeler üstlenmekten keyif alıyorum.
+  Web geliştirme tutkunu, özellikle **React** ile projeler geliştirmeyi seven bir yazılım geliştiricisiyim.  
+Yeni teknolojiler öğrenmeyi ve gerçek dünyada kullanabileceğim pratik çözümler üretmeyi seviyorum.
 </h3>
 
 ---
@@ -31,3 +30,5 @@
 
 #### Diğer Araçlar  
 <img src="https://skillicons.dev/icons?i=git,mysql" alt="Other Tools" />
+
+### Teşekkürler ziyaret ettiğin için! 🚀
