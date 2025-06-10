@@ -1,6 +1,14 @@
-<h1 align="center">Merhaba 👋, Ben Fatmagül ÖZGÜN</h1> <h3 align="center"> Tutkulu bir Full Stack Geliştiricisiyim, hem ön yüz hem de arka yüz geliştirme konusunda deneyimliyim. Kullanıcı dostu arayüzler oluşturmak ve sağlam backend sistemleri geliştirmek benim için sadece bir iş değil — aynı zamanda bir tutku. Sürekli öğrenmeye açım ve yeteneklerimi geliştirmek için yeni projeler üstlenmekten keyif alıyorum. </h3>
-🔭 Şu Anda Çalıştığım Teknolojiler
-React
+<h1 align="center">Merhaba 👋, Ben Fatmagül ÖZGÜN</h1> 
+<h3 align="center"> 
+  Tutkulu bir Full Stack Geliştiricisiyim, hem ön yüz hem de arka yüz geliştirme konusunda deneyimliyim.
+  Kullanıcı dostu arayüzler oluşturmak ve sağlam backend sistemleri geliştirmek benim için sadece bir iş değil — aynı zamanda bir tutku. Sürekli öğrenmeye açım ve yeteneklerimi geliştirmek için yeni projeler üstlenmekten keyif alıyorum. 
+</h3>
+
+----
+
+
+###🔭 Şu Anda Çalıştığım Teknolojiler
+**React**
 
 🌱 Şu Anda Öğrendiğim Teknolojiler
 Node.js
