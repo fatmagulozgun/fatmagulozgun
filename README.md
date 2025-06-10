@@ -1,43 +1,39 @@
 <h1 align="center">Hi 👋, I'm Fatmagül ÖZGÜN</h1>
-<h3 align="center">Hi ,I'm Fatmagül a full stack developer. I have experience in both front-end and back-end development. Creating user-friendly interfaces and ensuring that applications run flawlessly on both sides is not just a job for me, it's a passion. I can't wait to take part in new projects and improve myself on both sides.</h3>
+<h3 align="center">
+  I'm a passionate Full Stack Developer with experience in both front-end and back-end development.  
+  Creating user-friendly interfaces and building robust backend systems is more than a job — it's my passion.  
+  Always eager to learn and take on new projects to improve my skills.
+</h3>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Node.Js**
-
-- 📫 How to reach me **ftmglozgn@gmail.com**
-
-
-### Frontend Development
-<p align="start">
-   <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
-### Backend Development
-<p align="start">
-  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-</p>
+---
 
-### Programming Languages
-<p align="start">
-  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
-    <img src="https://skillicons.dev/icons?i=cs,js,java,python" />
-  </a>
-</p>
+### 🔭 Currently Working On  
+**React**
 
-### Other
-<p align="start">
-  <a href="https://www.linkedin.com/in/fatmagül-özgün-a74500270/">
-    <img src="https://skillicons.dev/icons?i=git,mysql" />
-  </a>
-</p>
+### 🌱 Currently Learning  
+**Node.js**
 
+### 📫 Contact Me  
+**ftmglozgn@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" alt="Frontend Icons" />
+
+#### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Icons" />
+
+#### Programming Languages  
+<img src="https://skillicons.dev/icons?i=cs,js,java,python" alt="Programming Languages" />
+
+#### Others  
+<img src="https://skillicons.dev/icons?i=git,mysql" alt="Other Tools" />
