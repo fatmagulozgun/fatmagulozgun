@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Fatmagül ÖZGÜN</h1>
 <h3 align="center">
-  Web geliştirme tutkunu, özellikle **React** ile projeler geliştirmeyi seven bir yazılım geliştiricisiyim.  
+  Web geliştirme tutkunu, özellikle ile projeler geliştirmeyi seven bir yazılım geliştiricisiyim.  
 Yeni teknolojiler öğrenmeyi ve gerçek dünyada kullanabileceğim pratik çözümler üretmeyi seviyorum.
 </h3>
 
