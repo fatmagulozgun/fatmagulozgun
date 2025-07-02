@@ -7,7 +7,7 @@ Yeni teknolojiler öğrenmeyi ve gerçek dünyada kullanabileceğim pratik çöz
 ---
 
 ### 🔭 Şu Anda Çalıştığım Teknolojiler 
-**React**
+**React** **Next.js**
 
 ### 🌱 Şu Anda Öğrendiğim Teknolojiler  
 **Node.js**
