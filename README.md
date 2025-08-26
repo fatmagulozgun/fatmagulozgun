@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I’m Fatmagül  
 
-<!--
-**fatmagulozgun/fatmagulozgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a senior **Software Engineering** student.  
+🚀 On my journey to becoming a **Full-Stack Developer**.  
+📚 Building projects with **React, Node.js, Express, MongoDB, and Java**.  
+🎮 Passionate about **embedded systems & ESP32 projects**, integrating hardware & software.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use  
+**Frontend:** React, Tailwind CSS, Material UI, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+
+---
+
+## 📫 Contact Me  
+- 📧 **Email:** ftmglozgn@gmail.com  
