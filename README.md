@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Technologies I Use  
-**Frontend:** React, Tailwind CSS, Material UI, HTML, CSS, JavaScript  
+**Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express  
 **Database:** MongoDB, MySQL  
 
