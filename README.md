@@ -35,4 +35,4 @@
 ## 📫 Contact Me
 
 📧 ftmglozgn@gmail.com  
-🌐 fatmagulozgun.vercel.app
+🌐 https://fatmagulozgun.vercel.app/
