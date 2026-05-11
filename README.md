@@ -1,18 +1,38 @@
-# 👋 Hello, I’m Fatmagül  
+# 👋 Hi, I'm Fatma Gül Özgün
 
-💻 I’m a senior **Software Engineering** student.  
-🚀 On my journey to becoming a **Full-Stack Developer**.  
-📚 Building projects with **React, Node.js, Express, MongoDB, and Java**.  
-🎮 Passionate about **embedded systems & ESP32 projects**, integrating hardware & software.  
+💻 Software Engineer passionate about building modern and user-focused web applications.
 
 ---
 
-## 🔧 Technologies I Use  
-**Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
+## 🛠️ Technologies & Tools
+
+### Frontend
+- React
+- Next.js
+- Vue.js
+- JavaScript
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- PHP (Laravel)
+
+### Database
+- MongoDB
+- MySQL
+- NeonDB
+
+### Tools
+- Git & GitHub
+- Figma
+- CorelDRAW
 
 ---
 
-## 📫 Contact Me  
-- 📧 **Email:** ftmglozgn@gmail.com  
+## 📫 Contact Me
+
+📧 ftmglozgn@gmail.com  
+🌐 fatmagulozgun.vercel.app
